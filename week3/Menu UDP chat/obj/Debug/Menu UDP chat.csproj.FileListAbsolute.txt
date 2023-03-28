@@ -1,0 +1,13 @@
+D:\Code\week3\Menu UDP chat\bin\Debug\Menu UDP chat.exe.config
+D:\Code\week3\Menu UDP chat\bin\Debug\Menu UDP chat.exe
+D:\Code\week3\Menu UDP chat\bin\Debug\Menu UDP chat.pdb
+D:\Code\week3\Menu UDP chat\obj\Debug\Menu UDP chat.csproj.AssemblyReference.cache
+D:\Code\week3\Menu UDP chat\obj\Debug\Menu UDP chat.csproj.SuggestedBindingRedirects.cache
+D:\Code\week3\Menu UDP chat\obj\Debug\UDP_Client.Client.resources
+D:\Code\week3\Menu UDP chat\obj\Debug\UDP_Server.Server.resources
+D:\Code\week3\Menu UDP chat\obj\Debug\Menu_UDP_chat.Menu.resources
+D:\Code\week3\Menu UDP chat\obj\Debug\Menu_UDP_chat.Properties.Resources.resources
+D:\Code\week3\Menu UDP chat\obj\Debug\Menu UDP chat.csproj.GenerateResource.cache
+D:\Code\week3\Menu UDP chat\obj\Debug\Menu UDP chat.csproj.CoreCompileInputs.cache
+D:\Code\week3\Menu UDP chat\obj\Debug\Menu UDP chat.exe
+D:\Code\week3\Menu UDP chat\obj\Debug\Menu UDP chat.pdb
