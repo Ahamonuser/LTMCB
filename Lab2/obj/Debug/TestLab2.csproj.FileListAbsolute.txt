@@ -1,0 +1,13 @@
+D:\Code\TestLab2\bin\Debug\TestLab2.exe.config
+D:\Code\TestLab2\bin\Debug\TestLab2.exe
+D:\Code\TestLab2\bin\Debug\TestLab2.pdb
+D:\Code\TestLab2\obj\Debug\TestLab2.csproj.AssemblyReference.cache
+D:\Code\TestLab2\obj\Debug\TestLab2.csproj.SuggestedBindingRedirects.cache
+D:\Code\TestLab2\obj\Debug\TestLab2.Menu.resources
+D:\Code\TestLab2\obj\Debug\TestLab2.Properties.Resources.resources
+D:\Code\TestLab2\obj\Debug\TestLab2.csproj.GenerateResource.cache
+D:\Code\TestLab2\obj\Debug\TestLab2.csproj.CoreCompileInputs.cache
+D:\Code\TestLab2\obj\Debug\TestLab2.exe
+D:\Code\TestLab2\obj\Debug\TestLab2.pdb
+D:\Code\TestLab2\obj\Debug\TestLab2.Bai01.resources
+D:\Code\TestLab2\obj\Debug\TestLab2.Bai02.resources
